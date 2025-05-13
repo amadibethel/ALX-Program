@@ -1,5 +1,3 @@
-# ALX-Program
-Front-End Development | Product Engineering | Mobile App Engineering | Software Engineering
 # 👋 Hi, I'm Bethel Amadi
 
 ## 🚀 AI Product Architect | Digital Innovator | Fintech Entrepreneur
